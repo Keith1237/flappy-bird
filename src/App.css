@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background: skyblue;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+canvas {
+  border: 3px solid #333;
+  background: #70c5ce;
+}
